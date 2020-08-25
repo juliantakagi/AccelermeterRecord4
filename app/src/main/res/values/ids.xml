@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="x_acc" type="id" />
+    <item name="y_acc" type="id" />
+    <item name="z_acc" type="id" />
+</resources>
